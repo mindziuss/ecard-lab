@@ -1,0 +1,67 @@
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\bin\Debug\netCard Client Console.exe.config
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\bin\Debug\netCard Client Console.exe
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\bin\Debug\netCard Client Console.pdb
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\bin\Debug\netCard Server_stub.dll
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\obj\Debug\netCard Client Console.exe
+c:\users\nerijus\documents\visual studio 2010\Projects\netCard\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\Yoga_530\Desktop\Projects - 2019 09 20\netCard\netCard_c1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\Yoga_530\Desktop\Lustines korteles - LABORATORINIS - veikia TransactionSample\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\Yoga_530\Desktop\Lustines korteles - laboratorinis\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCard - VEIKIA Hello World\netCard_c1\obj\Debug\netCard_c1.csprojResolveAssemblyReference.cache
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\IT sauga\Desktop\Lustines korteles - laboratorinis VEIKIA\netCardPvz - Hello World\netCard_c1\obj\Debug\netCard_c1.csprojResolveAssemblyReference.cache
+C:\Users\IT sauga\Desktop\L1\Lustines korteles\netCardPvz - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\IT sauga\Desktop\L1\Lustines korteles\netCardPvz - Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\L1\Lustines korteles\netCardPvz - Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\SmartCard.Runtime.dll
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\SmartCard_stub.dll
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard_c1.csproj.AssemblyReference.cache
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard_c1.csproj.CoreCompileInputs.cache
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard_c1.csproj.CopyComplete
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\Ignas\Desktop\T120M151_sauga\LB2023\Pavyzdiniai Projektai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe.config
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Client Console.exe
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Client Console.pdb
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\netCard Server_stub.dll
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\SmartCard.Runtime.dll
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\bin\Debug\SmartCard_stub.dll
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard_c1.csproj.AssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard_c1.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard_c1.csproj.CopyComplete
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard Client Console.exe
+C:\Users\Mindaugas\Desktop\Mokslai 2023\Informaciniu technologiju saugos metodai\netCardPvz2023 - Hello World\netCard_c1\obj\Debug\netCard Client Console.pdb
